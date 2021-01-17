@@ -13,13 +13,15 @@
  - Position:
  - Description: 
  - [github link]()
- 
+
 ### Michael Maddy
- - Major:
- - Year:
- - Position:
- - Description: 
- - [github link]()
+ - Major: Computer Engineering
+ - Year: 3rd Year
+ - Position: TBD
+ - Description: Michael is a 3rd year student who is currently interested in
+  computer networking and computer vision. He is currently a member of Yonder
+  Dynamics, A UCSD Competition team. His Ice Cream flavor is cookies and cream.
+ - [GitHub link](https://github.com/Michaelmvv/)
 
 
 ### Lori Liu
