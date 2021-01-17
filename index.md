@@ -44,11 +44,11 @@
  - [github link]()
 
 ### Sally Lei
- - Major:
- - Year:
- - Position:
- - Description: 
- - [github link]()
+ - Major: Computer Science
+ - Year: 2nd
+ - Position: TBD
+ - Description: I like spicy food and tetris! 
+ - [Github link](https://github.com/Slei03)
 
 ### Laurence Kuo
  - Major:
