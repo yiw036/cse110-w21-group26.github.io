@@ -32,11 +32,11 @@
  - [github link]()
 
 ### Kim Tien Vu
- - Major:
- - Year:
- - Position:
- - Description: 
- - [github link]()
+ - Major: Computer Science
+ - Year: 3rd Year
+ - Position: TBD
+ - Description: I am an undergraduate student at UCSD. My favorite programming language is Java. Some of my hobbies include listening to Broadway Musicals, cooking and eating food, and participating in hackathons.
+ - [github link](https://github.com/kimtienvu)
 
 ### Ronak Vyas
  - Major: Computer Science
