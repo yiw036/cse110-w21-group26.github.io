@@ -51,11 +51,11 @@
  - [github link]()
 
 ### Laurence Kuo
- - Major:
- - Year:
- - Position:
- - Description: 
- - [github link]()
+ - Major: Computer Science
+ - Year: Sophomore
+ - Position: 
+ - Description: I found a passion in computer science after being dragged to a hackathon by my friends in high school. I recently started an internship for a big data company in Taiwan and in my free time I love playing guitar and surfing. 
+ - [github link](https://github.com/lakuo)
 
 ### Emily Wu
  - Major:
