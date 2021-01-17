@@ -37,11 +37,11 @@
  - [github link]()
 
 ### Ronak Vyas
- - Major:
- - Year:
- - Position:
- - Description: 
- - [github link]()
+ - Major: Computer Science
+ - Year: Sophomore
+ - Position: TBD
+ - Description: My favorite language is Java but Python is catching up. A fun fact about me is that I was actually at the first virtual NBA game in the NBA Playoffs! (virtually). 
+ - [Github link](https://github.com/LiLronV)
 
 ### Sally Lei
  - Major:
