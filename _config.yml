@@ -1,0 +1,10 @@
+# theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
+title: Team TBD
+description: [cse110-w21-group26's website for CSE 110]
+
+#Show link to repo
+# github:
+#     is_project_page: true
+kramdown:
+    auto_ids: true
